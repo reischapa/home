@@ -10,25 +10,25 @@ git config --global user.email "reischapa@gmail.com"
 
 echo "Installing packages..."
 sudo pacman -S \
-	git \
-	autojump \
-	nodejs \
-	npm \
-	openssh \
+  git \
+  autojump \
+  nodejs \
+  npm \
+  openssh \
   links \
   modemmanager \
-	thunar \
-	kdiff3 \
+  thunar \
+  kdiff3 \
   blueman \
-	xorg-server \
-	xorg-xinput \
-	xorg-xinit \
+  xorg-server \
+  xorg-xinput \
+  xorg-xinit \
   xorg-xbacklight \
   xorg-xev \
-	xf86-video-intel \
-	xf86-video-vesa \
+  xf86-video-intel \
+  xf86-video-vesa \
   xf86-input-keyboard \
-	pulseaudio \
+  pulseaudio \
   pulsemixer \
   gparted \
   lxterminal \
